@@ -1,0 +1,6 @@
+{
+  "name": "PrivaVault — GDPR & CCPA Erasure",
+  "description": "Automated personal data removal platform for GDPR Article 17 and CCPA compliance with AES-256-GCM envelope encryption, data broker registry, and compliance scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
